@@ -15,4 +15,5 @@ Because credentials are an even bigger pain. <br><br>
 
 That said, the main idea of this script is to login as a Gmail user and send the emails. <br>
 If you're wondering "Why Gmail and not Outlook?", then it's because I don't know how to deal with 2FA on my Outlook account (for now). <br>
+And if you're wondering "Why SMTP and not API?", then it's because my lovely school account has no access at all to Microsoft Graph API. <br>
 That said, see ya next time!
